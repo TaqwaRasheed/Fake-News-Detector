@@ -23,19 +23,6 @@ Fake news is a growing concern in the digital age. The goal of this project is t
 
 ---
 
-## 📁 Project Structure
-fake-news-detector/
-│
-├── app.py                   # Streamlit web application
-├── lr_model.pkl             # Trained logistic regression model
-├── vectorizer.pkl           # TF-IDF vectorizer
-├── model-evaluation.ipynb   # Jupyter notebook with EDA & model comparison
-├── requirements.txt         # Python dependencies
-├── Report-Findings.docx              # Final IEEE format report
-└── README.md                # This file
-
----
-
 ## 📌 Labels Used
 
 The labels used for classification are:
@@ -67,7 +54,7 @@ The labels used for classification are:
 
 ## 🙌 Credits
 
-Made with 💻, 🧠, and a bit of ☕ by Taqwa Rasheed  
+Made with 💻, 🧠, and a lot of ☕ by Taqwa Rasheed  
 Semester 6
 AI [AI2002] Course
 
