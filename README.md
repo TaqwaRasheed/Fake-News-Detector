@@ -52,7 +52,7 @@ The labels used for classification are:
 
 ---
 
-##📬 Acknowledgements
+## 📬 Acknowledgements
 Dataset inspired by the LIAR dataset from the 2017 paper: Fake News Detection on Social Media: A Data Mining Perspective.
 
 TextBlob for sentiment scoring.
